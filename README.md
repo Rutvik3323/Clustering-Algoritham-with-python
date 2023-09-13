@@ -1,5 +1,4 @@
 # Clustering Algorithm with python
-Hello world, This is my profile
 <h1 align="center">Hi 👋, I'm Rutvik Gadhiya</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning</h3>
 
